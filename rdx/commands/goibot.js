@@ -4,7 +4,7 @@ const path = require('path');
 
 const CEREBRAS_API_URL = 'https://api.cerebras.ai/v1/chat/completions';
 
-const API_KEYS = [csk-tfk28k8pjjp9pdh2v5dpmvf6j3yfxfv5ydm88emjhettxm6v https://cerebras.ai./'];
+const API_KEYS = [csk-nv844xcfhrwnpfke8m4e8xfthwpcwy2hxmvmdvy3d38c3c5f https://cerebras.ai./'];
 // Boy Owners (Malik)
 const BOY_OWNERS = {
   '100009012838085': { name: 'SARDAR', gender: 'boy' }
