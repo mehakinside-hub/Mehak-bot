@@ -11,9 +11,9 @@ const BOY_OWNERS = {
   '100009012838085': { name: 'SARDAR', gender: 'boy' }
 };
 
-// Girl Owners (Malkin)
+61578393323391
 const GIRL_OWNERS = {
-  'GIRL UID': { name: 'SARA', gender: 'girl' }  // 
+  'GIRL UID': { name: 'MEHAK JUTTI', gender: 'girl' }  // 
 };
 
 const BOT_NAME = 'Mano';
