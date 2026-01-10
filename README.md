@@ -1,13 +1,13 @@
 <div align="center">
   <h1>
-    <img src="https://img.shields.io/badge/WELCOME%20TO-SARDAR%20RDX%20BOT-informational?style=for-the-badge&logo=github&logoColor=white&colorA=800080&colorB=FF0000" alt="Welcome Badge">
+    <img src="https://img.shields.io/badge/WELCOME%20TO-MEHAK%20JUTTI%20BOT-informational?style=for-the-badge&logo=github&logoColor=white&colorA=800080&colorB=FF0000" alt="Welcome Badge">
   </h1>
   
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Neuton&font-weight=bold&size=22&color=FFFF00&background=FF0000&center=true&vCenter=true&width=600&height=70&lines=HELLO+FRIENDS!+SARDAR+RDX+HERE+👨‍💻+🫰;RDX+BOT+PROJECT;RDX+FCA+BOT;THANKYOU+FOR+USING+RDX+PROJECT&border=5px+solid+000000&speed=100" alt="Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Neuton&font-weight=bold&size=22&color=FFFF00&background=FF0000&center=true&vCenter=true&width=600&height=70&lines=HELLO+FRIENDS!+SARDAR+RDX+HERE+👨‍💻+🫰;MEHAK+BOT+PROJECT;MEHAK+FCA+BOT;THANKYOU+FOR+USING+MEHAK+PROJECT&border=5px+solid+000000&speed=100" alt="Typing Animation">
   </p>
   
-  <img src="https://i.imgur.com/yr1YUuj.jpeg" alt="SARDAR RDX BOT" width="300" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <img src="https://i.ibb.co/CsHNxfp2/429380de4123.jpg" alt="MEHAK JUTTI BOT" width="300" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   
   <h1 style="font-size: 48px; color: #FF0000; text-shadow: 2px 2px 4px #000000; margin: 20px 0;">
     VERSION 0.6
