@@ -331,19 +331,19 @@ const funnyResponses = [
 
 // Emoji Responses - 10 independent emoji reactions
 const emojiResponses = {
-  '❤️': ['Aww, mera dil bhi terha! 💕', 'Pyar se neend ud jaati hai 😍', 'Dil ki suno, mind nahi! 💗'],
-  '❤': ['Aww, mera dil bhi terha! 💕', 'Pyar se neend ud jaati hai 😍', 'Dil ki suno, mind nahi! 💗'],
-  '😂': ['Hahahaha, main bhi hasne laga 😂😂', 'Teri hassi dekh ke mera dimaag chaal gya! 🤣', 'Wooo, hasna mat! Paas nahi aa sakta 😆'],
-  '🔥': ['Fire fire! Aag laga di 🔥🔥', 'Itna hot kaise ho sakta hai?! 🥵', 'Burning vibes! Mujhe bhi jalane de 😤'],
-  '😘': ['Chumma lelo, par hat toh nahi 😘💋', 'Kiss accept, but distance maintain! 😜', 'Muahhh! Main bhi tere lips dekh raha hoon 👄'],
-  '🎉': ['Party time! Cake bhi tha kya? 🎂🎉', 'Celebration ho rahi hai! Main bhi dance kar lu? 💃', 'Woohoo! Kab party hai, mujhe bulana! 🥳'],
-  '😭': ['Arre rowna mat! Main samjha deta hoon 😭', 'Tears ka kya faida? Smile kar! 😢➡️😊', 'Dilo paas roke paas mat aye, main dil toda! 💔'],
-  '😢': ['Arre rowna mat! Main samjha deta hoon 😭', 'Tears ka kya faida? Smile kar! 😢➡️😊', 'Dilo paas roke paas mat aye, main dil toda! 💔'],
-  '🤔': ['Soch raha hoon kya? Batayega? 🤔', 'Dimag se dhua nikal raha hai! 💨', 'Jab sochta ho tabhi samajh aa jata hai! 🧠'],
-  '😱': ['Arrrrrr! Kya hua?! 😱😱', 'Itna shock kaise? Thoda prepare ho ja! 😲', 'Shocked? Main to ready hoon! 👀'],
-  '😲': ['Arrrrrr! Kya hua?! 😱😱', 'Itna shock kaise? Thoda prepare ho ja! 😲', 'Shocked? Main to ready hoon! 👀'],
-  '🎯': ['Perfect shot! Bullseye! 🎯🏆', 'Target pakda! Jee Malik! 🔫', 'Aim kiya aur lag gya! Pro mode! 💯'],
-  '✨': ['Itna shiny aur sparkly! ✨✨', 'Magic ho gya! Jadoo dekho! 🪄✨', 'Glowing vibes se mera face chamak gya! 😌✨']
+  '': ['Aww, mera dil bhi terha! 💕', 'Pyar se neend ud jaati hai 😍', 'Dil ki suno, mind nahi! 💗'],
+  '': ['Aww, mera dil bhi terha! 💕', 'Pyar se neend ud jaati hai 😍', 'Dil ki suno, mind nahi! 💗'],
+  '': ['Hahahaha, main bhi hasne laga 😂😂', 'Teri hassi dekh ke mera dimaag chaal gya! 🤣', 'Wooo, hasna mat! Paas nahi aa sakta 😆'],
+  '': ['Fire fire! Aag laga di 🔥🔥', 'Itna hot kaise ho sakta hai?! 🥵', 'Burning vibes! Mujhe bhi jalane de 😤'],
+  '': ['Chumma lelo, par hat toh nahi 😘💋', 'Kiss accept, but distance maintain! 😜', 'Muahhh! Main bhi tere lips dekh raha hoon 👄'],
+  '': ['Party time! Cake bhi tha kya? 🎂🎉', 'Celebration ho rahi hai! Main bhi dance kar lu? 💃', 'Woohoo! Kab party hai, mujhe bulana! 🥳'],
+  '': ['Arre rowna mat! Main samjha deta hoon 😭', 'Tears ka kya faida? Smile kar! 😢➡️😊', 'Dilo paas roke paas mat aye, main dil toda! 💔'],
+  '': ['Arre rowna mat! Main samjha deta hoon 😭', 'Tears ka kya faida? Smile kar! 😢➡️😊', 'Dilo paas roke paas mat aye, main dil toda! 💔'],
+  '': ['Soch raha hoon kya? Batayega? 🤔', 'Dimag se dhua nikal raha hai! 💨', 'Jab sochta ho tabhi samajh aa jata hai! 🧠'],
+  '': ['Arrrrrr! Kya hua?! 😱😱', 'Itna shock kaise? Thoda prepare ho ja! 😲', 'Shocked? Main to ready hoon! 👀'],
+  '': ['Arrrrrr! Kya hua?! 😱😱', 'Itna shock kaise? Thoda prepare ho ja! 😲', 'Shocked? Main to ready hoon! 👀'],
+  '': ['Perfect shot! Bullseye! 🎯🏆', 'Target pakda! Jee Malik! 🔫', 'Aim kiya aur lag gya! Pro mode! 💯'],
+  '': ['Itna shiny aur sparkly! ✨✨', 'Magic ho gya! Jadoo dekho! 🪄✨', 'Glowing vibes se mera face chamak gya! 😌✨']
 };
 
 function detectAndGetEmojiResponse(message) {
