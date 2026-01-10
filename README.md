@@ -4,7 +4,7 @@
   </h1>
   
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Neuton&font-weight=bold&size=22&color=FFFF00&background=FF0000&center=true&vCenter=true&width=600&height=70&lines=HELLO+FRIENDS!+SARDAR+RDX+HERE+👨‍💻+🫰;MEHAK+BOT+PROJECT;MEHAK+FCA+BOT;THANKYOU+FOR+USING+MEHAK+PROJECT&border=5px+solid+000000&speed=100" alt="Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Neuton&font-weight=bold&size=22&color=FFFF00&background=FF0000&center=true&vCenter=true&width=600&height=70&lines=HELLO+FRIENDS!+MEHAK+JUTTI+HERE+👨‍💻+🫰;MEHAK+BOT+PROJECT;MEHAK+FCA+BOT;THANKYOU+FOR+USING+MEHAK+PROJECT&border=5px+solid+000000&speed=100" alt="Typing Animation">
   </p>
   
   <img src="https://i.ibb.co/CsHNxfp2/429380de4123.jpg" alt="MEHAK JUTTI BOT" width="300" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
